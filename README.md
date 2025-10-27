@@ -4,7 +4,7 @@ Bandung and West Java maps were originally taken from the Bandung Municipal Gove
 
 ## Example Maps
 
-![ACF2_Map](Example_Maps/ACF2_Cases_v2.tiff)
+![ACF2_Map](Example_Maps/ACF2_Cases_v2.png)
 
 > Koesoemadinata RC, McAllister S, Huang C, Hartati S, Djunaedy H, Dewi NF, et al. Should neighbours of tuberculosis (TB) cases be prioritised for active case finding in high TB-burden settings? A prospective molecular epidemiological study. BMJ Global Health. 2025;10:e019137. <https://doi.org/10.1136/bmjgh-2025-019137>
 
